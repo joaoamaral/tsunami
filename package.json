@@ -1,0 +1,19 @@
+{
+  "name": "tsunami",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoamaral/tsunami.git"
+  },
+  "author": "joaoamaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaoamaral/tsunami/issues"
+  },
+  "homepage": "https://github.com/joaoamaral/tsunami#readme"
+}
